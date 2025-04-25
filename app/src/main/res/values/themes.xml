@@ -17,14 +17,14 @@
     </style>
 
     <style name="AppTheme.Other.Button" parent="Widget.MaterialComponents.Button">
-        <item name="android:backgroundTint">?attr/colorSecondary</item> <!-- amarelo -->
+        <item name="android:backgroundTint">?attr/colorSecondary</item>
     </style>
 
     <style name="ButtonOperacaoTheme" parent="Widget.MaterialComponents.Button.TextButton">
-        <item name="android:backgroundTint">@color/blue_gray</item> <!-- cinza azulado -->
+        <item name="android:backgroundTint">@color/blue_gray</item>
     </style>
 
     <style name="AppTheme.Equal.Button" parent="Widget.MaterialComponents.Button">
-        <item name="android:backgroundTint">@color/yellow_700</item> <!-- amarelo escuro -->
+        <item name="android:backgroundTint">@color/yellow_700</item>
     </style>
 </resources>

@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "CalculadoraApp";
     private TextView textViewResultado, textViewUltimaExpressao;
-    private StringBuilder expressaoAtual = new StringBuilder();     // para cálculo
-    private StringBuilder expressaoVisivel = new StringBuilder();   // para exibição
+    private StringBuilder expressaoAtual = new StringBuilder();
+    private StringBuilder expressaoVisivel = new StringBuilder();
     private boolean ultimoFoiResultado = false;
 
     @Override
